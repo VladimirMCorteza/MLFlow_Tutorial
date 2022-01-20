@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vladimir/PycharmProjects/MLFlowTutorial/mlruns/0/cb140a02bd6a4acd89963a9b5c169e82/artifacts
+end_time: 1642701851749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cb140a02bd6a4acd89963a9b5c169e82
+run_uuid: cb140a02bd6a4acd89963a9b5c169e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642701849808
+status: 3
+tags: []
+user_id: vladimir
